@@ -3,8 +3,11 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 
 ## Course 1 - The Data Scientist’s Toolbox
 * Welcome
+  * Introduction to basic tools
 * Installing the Toolbox
+  * R, Git, Github
 * Conceptual Issues
+  * Steps in a data analysis, Putting the science in data science
 * Course Project Submission & Evaluation
 
 ## Course 2 - R Programming
