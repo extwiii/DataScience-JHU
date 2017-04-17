@@ -2,6 +2,11 @@
 Ask the right questions, manipulate data sets, and create visualizations to communicate results - Coursera
 
 ## Course 1 - The Data Scientist’s Toolbox
+* Welcome
+* Installing the Toolbox
+* Conceptual Issues
+* Course Project Submission & Evaluation
+
 ## Course 2 - R Programming
 ## Course 3 - Getting and Cleaning Data
 ## Course 4 - Exploratory Data Analysis
