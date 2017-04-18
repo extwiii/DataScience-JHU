@@ -17,6 +17,7 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 * Loop Functions and Debugging
   * lapply, apply, tapply, split, mapply
 * Simulation & Profiling
+  * Simulate a random normal variable with an arbitrary mean and standard deviation
 
 ## Course 3 - Getting and Cleaning Data
 ## Course 4 - Exploratory Data Analysis
