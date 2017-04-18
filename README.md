@@ -15,6 +15,7 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 * Programming with R
   * Derek Franks has written a very nice [tutorial](https://github.com/rdpeng/practice_assignment/blob/master/practice_assignment.rmd) to help you get up to speed
 * Loop Functions and Debugging
+  * lapply, apply, tapply, split, mapply
 * Simulation & Profiling
 
 ## Course 3 - Getting and Cleaning Data
