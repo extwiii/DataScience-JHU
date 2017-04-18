@@ -11,6 +11,11 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 * Course Project Submission & Evaluation
 
 ## Course 2 - R Programming
+* Background, Getting Started, and Nuts & Bolts
+* Programming with R
+* Loop Functions and Debugging
+* Simulation & Profiling
+
 ## Course 3 - Getting and Cleaning Data
 ## Course 4 - Exploratory Data Analysis
 ## Course 5 - Reproducible Research
