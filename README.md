@@ -13,6 +13,7 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 ## Course 2 - R Programming
 * Background, Getting Started, and Nuts & Bolts
 * Programming with R
+  * Derek Franks has written a very nice [tutorial](https://github.com/rdpeng/practice_assignment/blob/master/practice_assignment.rmd) to help you get up to speed
 * Loop Functions and Debugging
 * Simulation & Profiling
 
