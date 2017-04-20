@@ -20,6 +20,9 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
   * Simulate a random normal variable with an arbitrary mean and standard deviation
 
 ## Course 3 - Getting and Cleaning Data
+* Data collection & Data formats
+  * Raw files (.csv,.xlsx), Databases (mySQL), APIs, Flat files (.csv,.txt), XML, JSON
+
 ## Course 4 - Exploratory Data Analysis
 ## Course 5 - Reproducible Research
 ## Course 6 - Statistical Inference
