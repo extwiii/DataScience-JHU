@@ -27,6 +27,11 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 * Scripting for data cleaning
 
 ## Course 4 - Exploratory Data Analysis
+* Making exploratory graphs
+* Principles of analytic graphics
+* Clustering methods
+* Dimension reduction techniques
+
 ## Course 5 - Reproducible Research
 ## Course 6 - Statistical Inference
 ## Course 7 - Regression Models
