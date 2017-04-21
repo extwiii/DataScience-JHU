@@ -22,6 +22,9 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 ## Course 3 - Getting and Cleaning Data
 * Data collection & Data formats
   * Raw files (.csv,.xlsx), Databases (mySQL), APIs, Flat files (.csv,.txt), XML, JSON
+* Making data tidy
+* Distributing data
+* Scripting for data cleaning
 
 ## Course 4 - Exploratory Data Analysis
 ## Course 5 - Reproducible Research
