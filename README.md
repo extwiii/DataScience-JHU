@@ -33,6 +33,11 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 * Dimension reduction techniques
 
 ## Course 5 - Reproducible Research
+* Concepts, Ideas, & Structure
+* Markdown & knitr
+* Reproducible Research Checklist & Evidence-based Data Analysis
+* Case Studies & Commentaries
+
 ## Course 6 - Statistical Inference
 ## Course 7 - Regression Models
 ## Course 8 - Practical Machine Learning
