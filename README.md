@@ -45,6 +45,11 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 * Power, Bootstrapping, & Permutation Tests
 
 ## Course 7 - Regression Models
+* Least Squares and Linear Regression
+* Linear Regression & Multivariable Regression
+* Multivariable Regression, Residuals, & Diagnostics
+* Logistic Regression and Poisson Regression
+
 ## Course 8 - Practical Machine Learning
 ## Course 9 - Developing Data Products
 
