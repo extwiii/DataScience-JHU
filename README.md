@@ -39,9 +39,16 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 * Case Studies & Commentaries
 
 ## Course 6 - Statistical Inference
+* Probability & Expected Values
+* Variability, Distribution, & Asymptotics
+* Intervals, Testing, & Pvalues
+* Power, Bootstrapping, & Permutation Tests
+
 ## Course 7 - Regression Models
 ## Course 8 - Practical Machine Learning
 ## Course 9 - Developing Data Products
+
+The most up to date information on the course lecture notes will always be in the course [Github repository](https://github.com/DataScienceSpecialization/courses)
 
 #### Taught by: 
 #### Roger D. Peng, PhD - Associate Professor, Biostatistics
