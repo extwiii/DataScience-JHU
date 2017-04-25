@@ -51,6 +51,11 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 * Logistic Regression and Poisson Regression
 
 ## Course 8 - Practical Machine Learning
+* Prediction, Errors, and Cross Validation
+* The Caret Package
+* Predicting with trees, Random Forests, & Model Based Predictions
+* Regularized Regression and Combining Predictors
+
 ## Course 9 - Developing Data Products
 
 The most up to date information on the course lecture notes will always be in the course [Github repository](https://github.com/DataScienceSpecialization/courses)
