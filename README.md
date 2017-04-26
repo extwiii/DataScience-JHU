@@ -57,6 +57,10 @@ Ask the right questions, manipulate data sets, and create visualizations to comm
 * Regularized Regression and Combining Predictors
 
 ## Course 9 - Developing Data Products
+* Shiny, GoogleVis, and Plotly
+* R Markdown and Leaflet
+* R Packages
+* Swirl and Course Project 
 
 The most up to date information on the course lecture notes will always be in the course [Github repository](https://github.com/DataScienceSpecialization/courses)
 
