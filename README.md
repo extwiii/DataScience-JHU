@@ -1,4 +1,4 @@
-# DataScience-Johns.Hopkins.University
+# DataScience-Johns.Hopkins.University :white_check_mark:
 Ask the right questions, manipulate data sets, and create visualizations to communicate results - Coursera
 
 ## Course 1 - The Data Scientist’s Toolbox
